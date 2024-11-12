@@ -1,5 +1,5 @@
-Usage
-=====
+World Model
+===========
 
 .. _installation:
 
