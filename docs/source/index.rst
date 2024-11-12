@@ -7,13 +7,13 @@ In the Dynamic World, the focus is put on developing an extended object multiple
 
 In the Static World, the efforts are put on building a unified fusion map based on tracking static semantic objects and the fusion map can be learnt as time goes by with slow variations. The fusion map platform can accommondate various sensor data of diverse modalities with a voxel system. 
 
-To verify and validate the World Model, a cloud data center with formats of HDF5, MAT and Rosbag is established. A fusion data set with high quality annotation is collected using the SSF Data Vehicle. A real-time generic verification and validation metrics framework for autonomous systems is investigated. 
+To verify and validate the World Model, a real-time generic verification and validation metrics framework for autonomous systems is investigated, a cloud data center with formats of HDF5, MAT and Rosbag is established and a fusion data set collaborated with IEEE/ISIF using high quality annotation is collected using the SSF Data Vehicle. 
 
 The Tutorial gives demonstrations on how the components behave in certain delicated ways.
 
 The Example Arena presents students works on sOcean for simulation and real world scenario studies  
 
-Some Use Cases are designed to imitate real world situation for aerospace/automotive applications.
+Some Use Cases are designed to imitate real world situations for aerospace/automotive applications.
 
 .. note::
 
@@ -27,6 +27,7 @@ Contents
    World Model
    Dynamic World
    Static World
+   Metrics System
    Data Center
    Tutorial
    Example Arena
